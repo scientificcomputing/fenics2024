@@ -15,7 +15,7 @@ env:
 
 jobs:
 
-  reproduce_results:
+  fake_abstracts:
     uses: ./.github/workflows/generate_fake_abstracts.yml
 
   build-docs:
