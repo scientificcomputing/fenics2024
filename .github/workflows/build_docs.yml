@@ -22,6 +22,8 @@ jobs:
     needs: [fake_abstracts]
 
     runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/scientificcomputing/latex-full:2023-11-07a
     env:
       PUBLISH_DIR: ./book/_build/html
 
