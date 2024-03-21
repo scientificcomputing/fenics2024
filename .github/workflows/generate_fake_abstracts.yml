@@ -31,5 +31,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           path: ./abstracts.csv
-          name: abstracts.csv
+          name: abstracts
           if-no-files-found: error

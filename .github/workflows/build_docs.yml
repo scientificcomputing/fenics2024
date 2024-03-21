@@ -41,14 +41,14 @@ jobs:
       - name: Download fake abstracts
         uses: actions/download-artifact@v4
         with:
-          name: abstracts.csv
-          path: ./abstracts.csv
+          name: abstracts
+          path: ./abstracts
 
       - name: Install dependencies
         run: python3 -m pip install .
 
       - name: Convert abstracts to markdown
-        run: python3 convert.py abstracts.csv
+        run: python3 convert.py abstracts/abstracts.csv
 
       - name: Build pdfs
         run: cd book && myst build --pdf
