@@ -11,11 +11,12 @@ project:
     - README.md
     - abstracts
   bibliography: []
-  banner: assets/oslo.jpg
+  venue:
+    title: Simula Research Laboratory
 site:
   template: book-theme
   options:
-    logo: assets/fenics-logo.png
+    logo: assets/logo.png
   actions:
     - title: FEniCS website
       url: https://fenicsproject.org

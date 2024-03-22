@@ -23,6 +23,7 @@ options:
 files:
   - template.tex
   - fenics-logo.png
+  - simula.png
   - fenicsconf.def
   - fenicsconf.sty
 packages:
