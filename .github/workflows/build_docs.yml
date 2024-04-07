@@ -37,9 +37,6 @@ jobs:
       - name: Install dependencies
         run: python3 -m pip install .
 
-      - name: Convert abstracts to markdown
-        run: python3 convert.py abstracts/abstracts.csv
-
       - name: Build pdfs
         run: cd book && myst build --pdf
 
