@@ -14,13 +14,7 @@ env:
   BASE_URL: /${{ github.event.repository.name }}
 
 jobs:
-
-  fake_abstracts:
-    uses: ./.github/workflows/generate_fake_abstracts.yml
-
   build-docs:
-    needs: [fake_abstracts]
-
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/scientificcomputing/latex-full:2023-11-07a
@@ -40,17 +34,8 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Download fake abstracts
-        uses: actions/download-artifact@v4
-        with:
-          name: abstracts
-          path: ./abstracts
-
       - name: Install dependencies
         run: python3 -m pip install .
-
-      - name: Convert abstracts to markdown
-        run: python3 convert.py abstracts/abstracts.csv
 
       - name: Build pdfs
         run: cd book && myst build --pdf

@@ -46,7 +46,7 @@ class Author(NamedTuple):
 
 def read_paper(row: dict[str, str]) -> str:
     authors = []
-    for i, (author_name, affiliaition) in enumerate(
+    for i, (author_name, affiliation) in enumerate(
         zip(
             row["Name of authors (including presenter, comma-separated list)"].split(","),
             row["Affiliation of co-authors (including presenter, comma-separated list)"].split(","),
@@ -57,7 +57,7 @@ def read_paper(row: dict[str, str]) -> str:
         authors.append(
             Author(
                 name=author_name.strip(),
-                affiliation=affiliaition.strip(),
+                affiliation=affiliation.strip(),
                 email=email,
             )
         )

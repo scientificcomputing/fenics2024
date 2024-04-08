@@ -32,7 +32,7 @@ e.g
 ```
 python3 generate_fake_abstracts.py abstracts.csv 10
 ```
-which will create 10 fake abstracts in the files `.csv`. Note that the `csv` file has the following fieldnames
+which will create 10 fake abstracts in the file `abstract.csv`. Note that the `csv` file has the following fieldnames
 ```
 "Username",
 "Abstract title",
@@ -46,7 +46,7 @@ which will create 10 fake abstracts in the files `.csv`. Note that the `csv` fil
 
 To convert the `.csv` file to individual markdown files you can run the command
 ```
-python3 convert.py abstracts/abstracts.csv
+python3 convert.py abstracts.csv
 ```
 which will put each the abstracts in the folder `book/abstract` (you can also specify the output folder with the `-o` flag)
 
