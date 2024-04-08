@@ -18,7 +18,7 @@ def main(argv: Sequence[str] | None = None) -> int:
         input_folder = args["input"]
 
     if args["output"] is None:
-        output_file = here / "book" / "_build" / "exports" / "readme.pdf"
+        output_file = here / "book" / "_build" / "exports" / "all-abstracts.pdf"
     else:
         output_file = Path(args["output"]).with_suffix(".pdf")
 
@@ -26,12 +26,17 @@ def main(argv: Sequence[str] | None = None) -> int:
         print(f"{input_folder} does not exist")
         return 1
     output_file.parent.mkdir(parents=True, exist_ok=True)
+    abstracts = filter(
+        lambda x: not (x.stem.startswith("readme") or x.stem.startswith("all_abstracts")),
+        input_folder.glob("*.pdf"),
+    )
 
     merger = PdfWriter()
-    for f in [input_folder / "readme.pdf"] + [f for f in input_folder.glob("*.pdf") if not f.name.startswith("readme")]:
+    for f in [input_folder / "readme.pdf"] + list(abstracts):
         merger.append(f)
 
     merger.write(output_file)
+    print("Saved to: ", output_file)
     merger.close()
 
     return 0
