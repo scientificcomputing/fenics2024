@@ -40,4 +40,4 @@ We demonstrate the potential of SimCardEMS in predicting drug safety and efficac
 
 
 # References
-Finsberg et al., (2023). simcardems: A FEniCS-based cardiac electro-mechanics solver. Journal of Open Source Software, 8(81), 4753, https://doi.org/10.21105/joss.04753
+Finsberg et al., (2023). simcardems: A FEniCS-based cardiac electro-mechanics solver. Journal of Open Source Software, 8(81), 4753, doi:10.21105/joss.04753

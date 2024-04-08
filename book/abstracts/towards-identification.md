@@ -35,24 +35,24 @@ To study the feasibility of the approach, optimisation based on genetic algorith
 
 2.	C. Breite. “Aligning Fibre Break Models for Composites with the Observable Micro-Scale Material Behaviour”. 2021.
 
-3.	S. Huang et al. “Characterization of interfacial properties between fibre and polymer matrix in composite materials - A critical review”. J. Mater. Res. Technol. 2021 https://doi.org/10.1016/j.jmrt.2021.05.076.
+3.	S. Huang et al. “Characterization of interfacial properties between fibre and polymer matrix in composite materials - A critical review”. J. Mater. Res. Technol. 2021 doi:10.1016/j.jmrt.2021.05.076.
 
 4.	J. Chevalier. “Micromechanics of an epoxy matrix for fiber reinforced composites: experiments and physics-based modelling”. 2018.
 
-5.	A. Buljac et al. “Digital Volume Correlation: Review of Progress and Challenges”. Exp. Mech. 2018. https://doi.org/10.1007/s11340-018-0390-7.
+5.	A. Buljac et al. “Digital Volume Correlation: Review of Progress and Challenges”. Exp. Mech. 2018. doi:10.1007/s11340-018-0390-7.
 
-6.	B. P. Croom et al. “Damage mechanisms in elastomeric foam composites: Multiscale X-ray computed tomography and finite element analyses”. Compos. Sci. Technol. 2019. https://doi.org/10.1016/j.compscitech.2018.11.025.
+6.	B. P. Croom et al. “Damage mechanisms in elastomeric foam composites: Multiscale X-ray computed tomography and finite element analyses”. Compos. Sci. Technol. 2019. doi:10.1016/j.compscitech.2018.11.025.
 
-7.	T. Titscher, J. Oliver, and J. F. Unger. “Implicit-explicit integration of gradient-enhanced damage models”. J. Eng. Mech. 2019. https://doi.org/10.1061/(ASCE)EM.1943-7889.0001608.
+7.	T. Titscher, J. Oliver, and J. F. Unger. “Implicit-explicit integration of gradient-enhanced damage models”. J. Eng. Mech. 2019. doi:10.1061/(ASCE)EM.1943-7889.0001608.
 
 8.	J. Bleyer. dolfinx_materials. Ver: 8cef2944. Laboratoire Navier, Ecole des Ponts ParisTech, 2024. https://github.com/bleyerj/dolfinx_materials.
 
 9.	J. Hale, C. Maurini, and A. Latyshev. Computational fracture mechanics examples with FEniCSx. Ver: de88e30. 2020. https://gitlab. com/newfrac/newfrac-fenicsx-training.
 
-10.	J. Bleyer. Numerical tours of Computational Mechanics with FEniCSx. Ver: v0.1. 2024. https://doi.org/10.5281/zenodo.10470942.
+10.	J. Bleyer. Numerical tours of Computational Mechanics with FEniCSx. Ver: v0.1. 2024. doi:10.5281/zenodo.10470942.
 
-11.	M. S. Alnaes et al. “Unified Form Language: A domain-specific language for weak formulations of partial differential equations”. ACM Trans. on Math. Softw. 2014. https://doi.org/10.1145/2566630.
+11.	M. S. Alnaes et al. “Unified Form Language: A domain-specific language for weak formulations of partial differential equations”. ACM Trans. on Math. Softw. 2014. doi:10.1145/2566630.
 
-12.	M. W. Scroggs et al. “Basix: a runtime finite element basis evaluation library”. J. Open Source Softw. 2022. https://doi.org/10.21105/joss.03982.
+12.	M. W. Scroggs et al. “Basix: a runtime finite element basis evaluation library”. J. Open Source Softw. 2022. doi:10.21105/joss.03982.
 
-13.	M. W. Scroggs et al. “Construction of arbitrary order finite element degreeof-freedom maps on polygonal and polyhedral cell meshes”. ACM Trans. on Math. Softw. 2022. https://doi.org/10.1145/3524456.
+13.	M. W. Scroggs et al. “Construction of arbitrary order finite element degreeof-freedom maps on polygonal and polyhedral cell meshes”. ACM Trans. on Math. Softw. 2022. doi:10.1145/3524456.

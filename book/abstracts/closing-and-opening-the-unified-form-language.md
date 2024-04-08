@@ -33,4 +33,4 @@ The converse idea to that of closure is that operators which act on UFL objects 
 In this presentation I will outline these recent extensions to UFL, and provide the mathematical background to their definitions.
 
 # References
-Martin S. Alnæs, Anders Logg, Kristian B. Ølgaard, Marie E. Rognes, and Garth N. Wells. 2014. Unified form language: A domain-specific language for weak formulations of partial differential equations. ACM Trans. Math. Softw. 40, 2, Article 9 (February 2014), 37 pages. https://doi.org/10.1145/2566630
+Martin S. Alnæs, Anders Logg, Kristian B. Ølgaard, Marie E. Rognes, and Garth N. Wells. 2014. Unified form language: A domain-specific language for weak formulations of partial differential equations. ACM Trans. Math. Softw. 40, 2, Article 9 (February 2014), 37 pages. doi:10.1145/2566630

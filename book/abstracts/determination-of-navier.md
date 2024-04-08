@@ -24,6 +24,6 @@ We have implemented the method using FEniCS and dolfin-adjoint and tested it for
 Applying the method to real patient data, we saw that including Navier's slip boundary condition helped to improve the fit of the blood flow patterns present in the magnetic resonance data for steady flows.
 
 # References
-A. Jarolímová, J. Hron (2024). Determination of Navier’s slip parameter and the inflow velocity using variational data assimilation. arXiv. https://doi.org/10.48550/arXiv.2402.04766
+A. Jarolímová, J. Hron (2024). Determination of Navier’s slip parameter and the inflow velocity using variational data assimilation. arXiv. doi:10.48550/arXiv.2402.04766
 
-Y. Nubar (1971). Blood Flow, Slip, and Viscometry. Biophysical Journal, 11(3):252–264. https://doi.org/10.1016/S0006-3495(71)86212-4
+Y. Nubar (1971). Blood Flow, Slip, and Viscometry. Biophysical Journal, 11(3):252–264. doi:10.1016/S0006-3495(71)86212-4

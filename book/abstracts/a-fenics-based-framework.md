@@ -48,4 +48,4 @@ the respective models relative strengths and weaknesses.
 # References
 [RHM94] Edward K Rodriguez, Anne Hoger, and Andrew D Mcculloch. STRESS-DEPENDENT FINITE GROWTH IN SOFT ELASTIC TISSUES. 1994.
 
-[WH18] Colleen M. Witzenburg and Jeffrey W. Holmes. “Predicting the time course of ventricular dilation and thickening using a rapid compart- mental model”. In: Journal of Cardiovascular Translational Research 11 (2 Mar. 2018), pp. 109–122. issn: 19375395. https://doi.org/10.1007/s12265-018-9793-1.
+[WH18] Colleen M. Witzenburg and Jeffrey W. Holmes. “Predicting the time course of ventricular dilation and thickening using a rapid compart- mental model”. In: Journal of Cardiovascular Translational Research 11 (2 Mar. 2018), pp. 109–122. issn: 19375395. doi:10.1007/s12265-018-9793-1.

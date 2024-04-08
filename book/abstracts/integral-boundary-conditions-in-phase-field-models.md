@@ -24,4 +24,4 @@ Modeling the chemical, electric and thermal transport as well as phase transitio
 and establish its well-posedness. We then compare our method with the commonly-used Lagrange multiplier method that can also handle such boundary conditions. Numerical experiments demonstrate that our new method achieves optimal convergence rate in contrast to the conventional Lagrange multiplier method. Furthermore, the linear system derived from our method is symmetric positive definite, and can be efficiently solved by Conjugate Gradient method with algebraic multigrid preconditioning.
 
 # References
-Xu, X., Zhang, L., Shi, Y., Chen, L.-Q., & Xu, J. (2023). Integral boundary conditions in phase field models. Computers & Mathematics with Applications, 135, 1–5. https://doi.org/10.1016/j.camwa.2022.11.025
+Xu, X., Zhang, L., Shi, Y., Chen, L.-Q., & Xu, J. (2023). Integral boundary conditions in phase field models. Computers & Mathematics with Applications, 135, 1–5. doi:10.1016/j.camwa.2022.11.025

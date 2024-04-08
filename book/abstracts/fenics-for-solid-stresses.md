@@ -24,7 +24,7 @@ exports:
 I am working on a cross-department project in STFC, focusing on modelling spallation targets at ISIS Neutron and Muon Source, STFC. Protons accelerated to 80% of the speed of light at ISIS produce neutron scattering for atomic-scale material property measurement in medicine and engineering. The TS2 target, composed of Tungsten with a Tantalum casing and water cooling channels, experiences periodic temperature changes upon proton beam impact, limiting its lifespan due to stress. Using FEniCS, we aim to model this scenario and couple it with CFD programs to consider cooling channels' effects, emphasizing portability and ease of use. I will present the journey of benchmarking this work, including challenges faced as a new user and the project's short and long-term contributions to the field.
 
 # References
-Wilcox, D., Loveridge, P., Davenne, T., Jones, L., & Jenkins, D. (2018). Stress levels and failure modes of tantalum-clad tungsten targets at ISIS. Journal of Nuclear Materials, 506, 76–82. https://doi.org/10.1016/j.jnucmat.2017.10.075
+Wilcox, D., Loveridge, P., Davenne, T., Jones, L., & Jenkins, D. (2018). Stress levels and failure modes of tantalum-clad tungsten targets at ISIS. Journal of Nuclear Materials, 506, 76–82. doi:10.1016/j.jnucmat.2017.10.075
 
 
 

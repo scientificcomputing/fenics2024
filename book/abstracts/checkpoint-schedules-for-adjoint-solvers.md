@@ -18,12 +18,12 @@ There exists a diversity of checkpointing algorithms whose applicability and opt
 In this work, we aim to present the concept of checkpoint_schedules abstraction and how we reach its integration into adjoint solvers. Furthermore, we will explain how this package integrates with Firedrake's adjoint via pyadjoint (Mitusch et al., 2019) and its functionality through examples using different checkpointing algorithms available in checkpoint_schedules.
 
 # References
-Alnaes, M. S., Blechta, J., Hake, J., Johansson, A., Kehlet, B., Logg, A., Richardson, C., Ring, J., Rognes, M. E., & Wells, G. N. (2015). The FEniCS project version 1.5. Archive of Numerical Software, 3. https://doi.org/10.11588/ans.2015.100.20553 .
+Alnaes, M. S., Blechta, J., Hake, J., Johansson, A., Kehlet, B., Logg, A., Richardson, C., Ring, J., Rognes, M. E., & Wells, G. N. (2015). The FEniCS project version 1.5. Archive of Numerical Software, 3. doi:10.11588/ans.2015.100.20553 .
 
-Dolci, D. I., Maddison, J. R., Ham, D. A., Pallez, G., & Herrmann, J. (2024). checkpoint_schedules: schedules for incremental checkpointing of adjoint simulations. Journal of Open Source Software, 9(95), 6148. https://doi.org/10.21105/joss.06148
+Dolci, D. I., Maddison, J. R., Ham, D. A., Pallez, G., & Herrmann, J. (2024). checkpoint_schedules: schedules for incremental checkpointing of adjoint simulations. Journal of Open Source Software, 9(95), 6148. doi:10.21105/joss.06148
 
 Ham, D. A., Kelly, P. H. J., Mitchell, L., Cotter, C. J., Kirby, R. C., Sagiyama, K., Bouziani, N., Vorderwuelbecke, S., Gregory, T. J., Betteridge, J., Shapero, D. R., Nixon-Hill, R. W., Ward, C. J., Farrell, P. E., Brubeck, P. D., Marsden, I., Gibson, T. H., Homolya, M., Sun, T.,  MacRae, A. T. T., Luporini, F., Gregory,A., Lange, M., Funke, S. W., Rathgeber, F ,  Bercea, G-T Markall, G. R. (2023). Firedrake user manual (First edition). Imperial College London; University of Oxford; Baylor University; University of Washington. doi:10.25561/104839
 
-Maddison, James R., Goldberg, D. N., & Goddard, B. D. (2019). Automated calculation of higher order partial differential equation constrained derivative information. SIAM Journal on Scientific Computing, 41(5), C417–C445. https://doi.org/10.1137/18M1209465
+Maddison, James R., Goldberg, D. N., & Goddard, B. D. (2019). Automated calculation of higher order partial differential equation constrained derivative information. SIAM Journal on Scientific Computing, 41(5), C417–C445. doi:10.1137/18M1209465
 
-Mitusch, S., Funke, S., & Dokken, J. (2019). dolfin-adjoint 2018.1: automated adjoints for FEniCS and Firedrake. Journal of Open Source Software, 4(38), 1292. https://doi.org/10.21105/joss.01292
+Mitusch, S., Funke, S., & Dokken, J. (2019). dolfin-adjoint 2018.1: automated adjoints for FEniCS and Firedrake. Journal of Open Source Software, 4(38), 1292. doi:10.21105/joss.01292

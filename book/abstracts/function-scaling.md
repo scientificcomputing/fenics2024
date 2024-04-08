@@ -32,8 +32,8 @@ The nonlinear Poisson-Boltzmann model of electrolyte solutions combines the Pois
 
 
 # References
-[1]  Tadesse, D., Parsons, D. F. (2024). Thermodynamics beyond dilute solution theory: Steric effects and electrowetting. In: Wandelt, K., Bussetti, G. (eds.) Encyclopedia of Solid-Liquid Interfaces. Elsevier. ISBN: 9780323856690. https://doi.org/10.1016/B978-0-323-85669-0.00137-9
+[1]  Tadesse, D., Parsons, D. F. (2024). Thermodynamics beyond dilute solution theory: Steric effects and electrowetting. In: Wandelt, K., Bussetti, G. (eds.) Encyclopedia of Solid-Liquid Interfaces. Elsevier. ISBN: 9780323856690. doi:10.1016/B978-0-323-85669-0.00137-9
 
-[2]  Parsons, D.F., Carucci, C.,  Salis,  A. (2022). Buffer-specific eﬀects arise from ionic dispersion forces. Phys. Chem. Chem. Phys., 24, 6544. https://doi.org/10.1039/d2cp00223j
+[2]  Parsons, D.F., Carucci, C.,  Salis,  A. (2022). Buffer-specific eﬀects arise from ionic dispersion forces. Phys. Chem. Chem. Phys., 24, 6544. doi:10.1039/d2cp00223j
 
-[3]  Tadesse, D., Parsons, D. F. (2022). The impact of steric repulsion on the total free energy of electric double layer capacitors. Colloids and Surfaces A, 648, 129134. https://doi.org/10.1016/j.colsurfa.2022.129134
+[3]  Tadesse, D., Parsons, D. F. (2022). The impact of steric repulsion on the total free energy of electric double layer capacitors. Colloids and Surfaces A, 648, 129134. doi:10.1016/j.colsurfa.2022.129134

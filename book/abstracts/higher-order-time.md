@@ -22,15 +22,15 @@ This poster shows how one can combine time interpolation in preCICE with an FEni
 
 
 # References
-Farrell, P. E., Kirby, R. C. & Marchena-Menéndez, J. (2021). Irksome: Automating Runge–Kutta Time-stepping for Finite Element Methods. ACM Transactions On Mathematical Software, 47(4), 1–26. https://doi.org/10.1145/3466168
+Farrell, P. E., Kirby, R. C. & Marchena-Menéndez, J. (2021). Irksome: Automating Runge–Kutta Time-stepping for Finite Element Methods. ACM Transactions On Mathematical Software, 47(4), 1–26. doi:10.1145/3466168
 
 
 
-Rodenberg, B., Desai, I., Hertrich, R., Jaust, A. & Uekermann, B. (2021). FEniCS–preCICE: Coupling FEniCS to other simulation software. SoftwareX (Amsterdam), 16, 100807. https://doi.org/10.1016/j.softx.2021.100807
+Rodenberg, B., Desai, I., Hertrich, R., Jaust, A. & Uekermann, B. (2021). FEniCS–preCICE: Coupling FEniCS to other simulation software. SoftwareX (Amsterdam), 16, 100807. doi:10.1016/j.softx.2021.100807
 
 
 
-Rüth, B., Uekermann, B., Mehl, M., Birken, P., Monge, A. & Bungartz, H. (2020). Quasi‐Newton waveform iteration for partitioned surface‐coupled multiphysics applications. International Journal For Numerical Methods in Engineering, 122(19), 5236–5257. https://doi.org/10.1002/nme.6443
+Rüth, B., Uekermann, B., Mehl, M., Birken, P., Monge, A. & Bungartz, H. (2020). Quasi‐Newton waveform iteration for partitioned surface‐coupled multiphysics applications. International Journal For Numerical Methods in Engineering, 122(19), 5236–5257. doi:10.1002/nme.6443
 
 
 

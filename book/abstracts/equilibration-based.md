@@ -27,7 +27,7 @@ In order to retain computational efficiency, the equilibrated flux is calculated
 Within this contribution, we discuss efficient implementations of different equilibration procedures within the finite element framework FEniCSx. Special attention will be paid to requirements resulting from the application of equilibration based error estimation in poro-elasticity.
 
 # References
-Verfürth, R. (1994). A posteriori error estimation and adaptive mesh-refinement techniques. J. Comput. Appl. Math., 50, p. 67-83. https://doi.org/10.1016/0377-0427(94)90290-9
+Verfürth, R. (1994). A posteriori error estimation and adaptive mesh-refinement techniques. J. Comput. Appl. Math., 50, p. 67-83. doi:10.1016/0377-0427(94)90290-9
 
 
 
@@ -35,8 +35,8 @@ Prager, W. & Synge, J. L. (1947). Approximations in elasticity based on the conc
 
 
 
-Ern, A. & Vohralik, M. (2015). Polynomial-Degree-Robust A Posteriori Estimates in a Unified Setting for Conforming, Nonconforming, Discontinuous Galerkin, and Mixed Discretizations. SIAM J. Numer. Anal., 53 , p. 1058-1081. https://doi.org/10.1137/130950100
+Ern, A. & Vohralik, M. (2015). Polynomial-Degree-Robust A Posteriori Estimates in a Unified Setting for Conforming, Nonconforming, Discontinuous Galerkin, and Mixed Discretizations. SIAM J. Numer. Anal., 53 , p. 1058-1081. doi:10.1137/130950100
 
 
 
-Bertrand, F., Carstensen, C., Gräßle, B. & Tran, N. T. (2023). Stabilization-free HHO a posteriori error control. Numer. Math., 154, p. 369–408. https://doi.org/10.1007/s00211-023-01366-8
+Bertrand, F., Carstensen, C., Gräßle, B. & Tran, N. T. (2023). Stabilization-free HHO a posteriori error control. Numer. Math., 154, p. 369–408. doi:10.1007/s00211-023-01366-8

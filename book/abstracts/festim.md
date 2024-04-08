@@ -23,4 +23,4 @@ The updated approach for simulating the diffusion and trapping of hydrogen is pr
 
 
 # References
-Delaporte-Mathurin, R., Dark, J., Ferrero, G., Hodille, E. A., Kulagin, V., & Meschini, S. (2024). Festim: An open-source code for Hydrogen Transport Simulations. International Journal of Hydrogen Energy, 63, 786–802. https://doi.org/10.1016/j.ijhydene.2024.03.184
+Delaporte-Mathurin, R., Dark, J., Ferrero, G., Hodille, E. A., Kulagin, V., & Meschini, S. (2024). Festim: An open-source code for Hydrogen Transport Simulations. International Journal of Hydrogen Energy, 63, 786–802. doi:10.1016/j.ijhydene.2024.03.184

@@ -18,8 +18,8 @@ Keywords: Discontinuous Galerkin, Computational Fluid Dynamics, Fractional step 
 # References
 [1] Hartmann, R. (2008). Numerical Analysis of Higher Order Discontinuous Galerkin Finite Element Methods. In VKI Lecture Series (Vol. 2008-0, pp. 1-107). ISBN 13 978-2-930389-88-5. Retrieved from https://elib.dlr.de/57074/1/Har08b.pdf
 
-[2] Fehn, N., Wall, W. A., & Kronbichler, M. (2018). Robust and efficient discontinuous Galerkin methods for under-resolved turbulent incompressible flows. Journal of Computational Physics, 372, 667–693. https://doi.org/10.1016/j.jcp.2018.06.037
+[2] Fehn, N., Wall, W. A., & Kronbichler, M. (2018). Robust and efficient discontinuous Galerkin methods for under-resolved turbulent incompressible flows. Journal of Computational Physics, 372, 667–693. doi:10.1016/j.jcp.2018.06.037
 
-[3] Gross, S., & Reusken, A. (2011). Numerical Methods for Two-phase Incompressible Flows (1st ed.). Springer Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-19686-7
+[3] Gross, S., & Reusken, A. (2011). Numerical Methods for Two-phase Incompressible Flows (1st ed.). Springer Berlin, Heidelberg. doi:10.1007/978-3-642-19686-7
 
 [4] Featflow - Department of Mathematics. DFG flow around cylinder benchmark 2D-3, fixed time interval (Re=100). Retrieved from https://wwwold.mathematik.tu-dortmund.de/~featflow/en/benchmarks/cfdbenchmarking/flow/dfg_benchmark3_re100.html

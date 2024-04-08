@@ -23,7 +23,7 @@ Previous studies have modelled the hydraulic conductivity as a spatially varying
 
 
 # References
-Alghamdi, A., Hesse, M. A., Chen, J., Ghattas O., 2020. Bayesian Poroelastic Aquifer Characterization from InSAR Surface Deformation Data. Part 1: Maximum A Posteriori Estimate. Water Resources Research 50, 10, e2020WR027391. https://doi.org/10.1029/2020WR027391
+Alghamdi, A., Hesse, M. A., Chen, J., Ghattas O., 2020. Bayesian Poroelastic Aquifer Characterization from InSAR Surface Deformation Data. Part 1: Maximum A Posteriori Estimate. Water Resources Research 50, 10, e2020WR027391. doi:10.1029/2020WR027391
 
 
 
@@ -35,4 +35,4 @@ Shivanand, S.K., Rosić, B., and Matthies, H.G., 2024. Stochastic modelling of s
 
 
 
-Heilweil, V.M., and Hsieh, P.A., 2006. Determining Anisotropic Transmissivity Using a Simplified Papadopulos Method. Groundwater 44, 749–753. https://doi.org/10.1111/j.1745-6584.2006.00210.x.
+Heilweil, V.M., and Hsieh, P.A., 2006. Determining Anisotropic Transmissivity Using a Simplified Papadopulos Method. Groundwater 44, 749–753. doi:10.1111/j.1745-6584.2006.00210.x.

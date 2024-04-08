@@ -27,8 +27,8 @@ This work implements FEniCS into a cellular activity model capable of simulating
 The model is developed based on the geometry derived from anonymized computed tomography (CT) scans, which have been segmented and voxelized to convert Hounsfield Unit values to bone density. A new domain has been constructed and generated, containing bone information of an 86-year-old male patient who has suffered an intratrocanteric fracture. The model aims to explain how the increase and cumulative effect of fatigue, along with events occurring in the process of bone remodeling such as focal bone balance and degree of mineralization, may lead to degradation of mechanical properties under specific dynamic loading conditions.
 
 # References
-García-Aznar, J. M., Rueberg, T., & Doblare, M. (2005). A bone remodelling model coupling microdamage growth and repair by 3D BMU-activity. Biomechanics and Modeling in Mechanobiology, 4(2–3), 147–167. https://doi.org/10.1007/s10237-005-0067-x
+García-Aznar, J. M., Rueberg, T., & Doblare, M. (2005). A bone remodelling model coupling microdamage growth and repair by 3D BMU-activity. Biomechanics and Modeling in Mechanobiology, 4(2–3), 147–167. doi:10.1007/s10237-005-0067-x
 
-Martin, R. B., Burr, D. B., Sharkey, N. A., & Fyhrie, D. P. (2015). Mechanical Adaptability of the Skeleton. In Skeletal Tissue Mechanics (pp. 275–354). Springer New York. https://doi.org/10.1007/978-1-4939-3002-9_6
+Martin, R. B., Burr, D. B., Sharkey, N. A., & Fyhrie, D. P. (2015). Mechanical Adaptability of the Skeleton. In Skeletal Tissue Mechanics (pp. 275–354). Springer New York. doi:10.1007/978-1-4939-3002-9_6
 
-Ait Oumghar, I., Barkaoui, A., & Chabrand, P. (2020). Toward a Mathematical Modeling of Diseases’ Impact on Bone Remodeling: Technical Review. Frontiers in Bioengineering and Biotechnology, 8. https://doi.org/10.3389/fbioe.2020.584198
+Ait Oumghar, I., Barkaoui, A., & Chabrand, P. (2020). Toward a Mathematical Modeling of Diseases’ Impact on Bone Remodeling: Technical Review. Frontiers in Bioengineering and Biotechnology, 8. doi:10.3389/fbioe.2020.584198
