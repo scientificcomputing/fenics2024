@@ -1,22 +1,19 @@
 ---
 title: 'Regularized reduced order models for incompressible flows'
 authors:
-  - name: Anna Sanfilippo
-    affiliations:
-      - Università di Trento
-    email: francesco.ballarin@unicatt.it
-  - name: Ian Moore
-    affiliations:
-      - Virginia Tech
-    email:
   - name: Francesco Ballarin
     affiliations:
       - Università Cattolica del Sacro Cuore
-    email:
+    email: francesco.ballarin@unicatt.it
+  - name: Anna Sanfilippo
+    affiliations:
+      - Università di Trento
+  - name: Ian Moore
+    affiliations:
+      - Virginia Tech
   - name: Traian Iliescu
     affiliations:
       - Virginia Tech
-    email:
 license: CC-BY-4.0
 exports:
   - format: pdf

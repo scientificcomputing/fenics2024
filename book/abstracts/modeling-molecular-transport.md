@@ -1,21 +1,21 @@
 ---
 title: 'Modeling molecular transport in the human intracranial space'
 authors:
-  - name: Rami Masri
-    affiliations:
-      - Simula
-    email: miroslav@simula.no
   - name: Miroslav Kuchta
     affiliations:
-      - Simula
+      - Simula Research Laboratory
+    email: miroslav@simula.no
+  - name: Rami Masri
+    affiliations:
+      - Simula Research Laboratory
     email:
   - name: Marius Causemann
     affiliations:
-      - Simula
+      - Simula Research Laboratory
     email:
   - name: Marie Rognes
     affiliations:
-      - Simula
+      - Simula Research Laboratory
     email:
 license: CC-BY-4.0
 exports:
