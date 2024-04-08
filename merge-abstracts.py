@@ -27,7 +27,7 @@ def main(argv: Sequence[str] | None = None) -> int:
         return 1
     output_file.parent.mkdir(parents=True, exist_ok=True)
     abstracts = filter(
-        lambda x: not (x.stem.startswith("readme") or x.stem.startswith("all_abstracts")),
+        lambda x: not (x.stem.startswith("readme") or x.stem.startswith("all-abstracts")),
         input_folder.glob("*.pdf"),
     )
 
