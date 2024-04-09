@@ -76,50 +76,70 @@ def day_session_to_time(day: Day, session: int):
         if session == 1:
             return TimeSlot(
                 start=datetime.datetime(2024, 6, 12, 13, 30),
-                end=datetime.datetime(2024, 6, 12, 15, 15),
+                end=datetime.datetime(2024, 6, 12, 14, 30),
                 day="Wednesday",
             )
         elif session == 2:
             return TimeSlot(
-                start=datetime.datetime(2024, 6, 12, 15, 30),
-                end=datetime.datetime(2024, 6, 12, 17, 0),
+                start=datetime.datetime(2024, 6, 12, 14, 35),
+                end=datetime.datetime(2024, 6, 12, 15, 35),
                 day="Wednesday",
             )
+        elif session == 3:
+            return TimeSlot(
+                start=datetime.datetime(2024, 6, 12, 15, 45),
+                end=datetime.datetime(2024, 6, 12, 17, 00),
+                day="Wednesday",
+            )
+
     elif day == Day.THURSDAY:
         if session == 1:
             return TimeSlot(
                 start=datetime.datetime(2024, 6, 13, 9, 0),
-                end=datetime.datetime(2024, 6, 13, 10, 45),
+                end=datetime.datetime(2024, 6, 13, 10, 0),
                 day="Thursday",
             )
         elif session == 2:
             return TimeSlot(
-                start=datetime.datetime(2024, 6, 13, 11, 00),
-                end=datetime.datetime(2024, 6, 13, 12, 45),
+                start=datetime.datetime(2024, 6, 13, 10, 10),
+                end=datetime.datetime(2024, 6, 13, 11, 10),
                 day="Thursday",
             )
         elif session == 3:
             return TimeSlot(
-                start=datetime.datetime(2024, 6, 13, 13, 30),
-                end=datetime.datetime(2024, 6, 13, 15, 0),
+                start=datetime.datetime(2024, 6, 13, 11, 15),
+                end=datetime.datetime(2024, 6, 13, 12, 15),
                 day="Thursday",
             )
         elif session == 4:
             return TimeSlot(
-                start=datetime.datetime(2024, 6, 13, 15, 30),
-                end=datetime.datetime(2024, 6, 13, 17, 0),
+                start=datetime.datetime(2024, 6, 13, 13, 00),
+                end=datetime.datetime(2024, 6, 13, 14, 15),
                 day="Thursday",
             )
+        elif session == 5:
+            return TimeSlot(
+                start=datetime.datetime(2024, 6, 13, 14, 25),
+                end=datetime.datetime(2024, 6, 13, 15, 25),
+                day="Thursday",
+            )
+        elif session == 6:
+            return TimeSlot(
+                start=datetime.datetime(2024, 6, 13, 15, 45),
+                end=datetime.datetime(2024, 6, 13, 17, 00),
+                day="Thursday",
+            )
+        
     elif day == Day.FRIDAY:
         if session == 1:
             return TimeSlot(
                 start=datetime.datetime(2024, 6, 14, 9, 0),
-                end=datetime.datetime(2024, 6, 14, 10, 30),
+                end=datetime.datetime(2024, 6, 14, 10, 15),
                 day="Friday",
             )
         elif session == 2:
             return TimeSlot(
-                start=datetime.datetime(2024, 6, 14, 10, 45),
+                start=datetime.datetime(2024, 6, 14, 10, 30),
                 end=datetime.datetime(2024, 6, 14, 11, 30),
                 day="Friday",
             )

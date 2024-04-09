@@ -3,19 +3,13 @@ requires = ["setuptools>=64.4.0", "wheel", "pip>=22.3"]
 build-backend = "setuptools.build_meta"
 
 [project]
+dependencies = ["pypdf", "mystmd", "Faker", "pandas", "tabulate"]
 name = "fenics-conf2024"
 version = "0.1.0"
-dependencies = [
-   "pypdf",
-   "mystmd",
-   "Faker"
-]
 
 
 [project.optional-dependencies]
-dev = [
-    "pre-commit",
-]
+dev = ["pre-commit"]
 
 [tool.setuptools]
 packages = []
