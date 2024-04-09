@@ -129,7 +129,7 @@ def day_session_to_time(day: Day, session: int):
                 end=datetime.datetime(2024, 6, 13, 17, 00),
                 day="Thursday",
             )
-        
+
     elif day == Day.FRIDAY:
         if session == 1:
             return TimeSlot(
