@@ -15,7 +15,7 @@ You need to install
 Once this is installed you can install the dependencies by first creating a virtual environment
 
 ```
-python3 -m vevn venv
+python3 -m venv venv
 ```
 
 activate it
