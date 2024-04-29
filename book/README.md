@@ -151,3 +151,4 @@ Number of presentations: 4
 | [Simulating electrodiffusion in myelinated axons](abstracts/simulating-electrodiffusion-in-myelinated-axons.md)                                                                                            | Alessandro Gatti         |
 | [Control Theory based adaptive time stepping for partitioned fluid-structure interactions](abstracts/control-theory.md)                                                                                    | Keni Joseph Sebastian    |
 | [Higher-Order Time-Stepping in Multiphysics Using preCICE](abstracts/higher-order-time.md)                                                                                                                 | Niklas Vinnitchenko      |
+| [Integrating Mechanistic Knowledge into Deep Learning for Improved Cancer Detection](abstracts/integrating-mechanistic.md)                                                                                 | Christoph Sadee          |
