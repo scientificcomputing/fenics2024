@@ -15,7 +15,6 @@ license: CC-BY-4.0
 exports:
   - format: pdf
     template: ../../template
-
 ---
 
-In this talk, I will show some highlights of the work we've been undertaking to update UFL, and say a little about the direction in which future developments are heading.
+In the last few years, we've begun work to update and improve UFL. This update aims to turn UFL into a more modern Python library, that is extensible, and so it will be possible to add functionality to UFL without having to edit the core of the library. In this talk, I will show some highlights of the work we've been undertaking, and say a little about the direction in which future developments are heading.
