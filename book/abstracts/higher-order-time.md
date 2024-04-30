@@ -1,20 +1,19 @@
 ---
-title: 'Higher-Order Time-Stepping in Multiphysics Using preCICE'
+title: "Higher-Order Time-Stepping in Multiphysics Using preCICE"
 authors:
+  - name: Niklas Vinnitchenko
+    affiliations: Technical University of Munich
+    email: niklas.vinnitchenko@tum.de
   - name: Prof. Dr. Hans-Joachim Bungartz
     affiliation: Technical University of Munich
-    email: niklas.vinnitchenko@tum.de
   - name: Prof. Dr. Benjamin Uekermann
     affiliations: University of Stuttgart
   - name: M.Sc. (hons) Benjamin Rodenberg
-    affiliations: Technical University of Munich
-  - name: Niklas Vinnitchenko
     affiliations: Technical University of Munich
 license: CC-BY-4.0
 exports:
   - format: pdf
     template: ../../template
-
 ---
 
 Multi-physics problems are often simulated with the help of partitioning to reduce the complexity of this task. Coupling is one necessary step when following this divide-and-conquer approach. The coupling library preCICE provides a high-level user interface to simplify the coupling of different solvers by treating them as black-boxes. Using the FEniCS-preCICE adapter makes coupling FEniCS code even more straightforward. (Rodenberg et al., 2021) To solve partitioned and time-dependent problems with higher-order, preCICE offers a feature called time interpolation. Utilizing this feature allows each coupling participant to individually use its own time stepping without complicating the code (Rüth et al., 2020).
