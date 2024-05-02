@@ -1,5 +1,5 @@
 ---
-title: "FEniCS conferences 2024 - June 12th - June 14th"
+title: "FEniCS conference 2024 - June 12th to June 14th"
 authors:
   - name: Jørgen Dokken
     affiliations:
