@@ -55,7 +55,7 @@ _Chair:_ TBA
 Number of presentations: 3
 | Title | Presenter |
 |:----------------------------------------------------------------------------------------------------------------|:-----------------|
-| ~~[Versatile large scale level set topology optimization using FEniCSx](abstracts/versatile.md)~~ | ~~Murtaza Bookwala~~ |
+| [{strike}`Versatile large scale level set topology optimization using FEniCSx`](abstracts/versatile.md) | {strike}`Murtaza Bookwala` |
 | [Checkpoint schedules for adjoint solvers](abstracts/checkpoint-schedules-for-adjoint-solvers.md) | Daiane Dolci |
 | [PDE Constrained Shape Optimization with cashocs](abstracts/pde-constrained-shape-optimization-with-cashocs.md) | Sebastian Blauth |
 | [Mesh-independent topology optimization in FEniCSx](abstracts/mesh-independent.md) | Michal Habera |
