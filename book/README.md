@@ -48,19 +48,19 @@ Number of presentations: 4
 | [Updates and future plans for ffcx FEniCS Form Compiler](abstracts/updates-and-future-plans-for-ffcx-fenics-form-compiler.md) | Chris Richardson |
 | [Custom quadrature at runtime in FEniCSx](abstracts/custom-quadrature-at-runtime-in-fenicsx.md) | August Johansson |
 
-### Session 2: 14:35 - 15:35
+### Session 2: 14:40 - 15:25
 
 _Chair:_ TBA
 
-Number of presentations: 4
+Number of presentations: 3
 | Title | Presenter |
 |:----------------------------------------------------------------------------------------------------------------|:-----------------|
-| [Versatile large scale level set topology optimization using FEniCSx](abstracts/versatile.md) | Murtaza Bookwala |
+| ~~[Versatile large scale level set topology optimization using FEniCSx](abstracts/versatile.md)~~ | ~~Murtaza Bookwala~~ |
 | [Checkpoint schedules for adjoint solvers](abstracts/checkpoint-schedules-for-adjoint-solvers.md) | Daiane Dolci |
 | [PDE Constrained Shape Optimization with cashocs](abstracts/pde-constrained-shape-optimization-with-cashocs.md) | Sebastian Blauth |
 | [Mesh-independent topology optimization in FEniCSx](abstracts/mesh-independent.md) | Michal Habera |
 
-### Break 15:35-15:45
+### Break 15:25-15:45
 
 Coffee, tea refreshments and pastries will be served
 
