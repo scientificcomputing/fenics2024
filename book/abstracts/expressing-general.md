@@ -9,11 +9,11 @@ authors:
     affiliations:
       - Ecole des Ponts ParisTech, Université Gustave Eiffel
     email:
-- name: Jack S. Hale
+  - name: Jack S. Hale
     affiliations:
       - University of Luxembourg
     email:
-- name: Corrado Maurini
+  - name: Corrado Maurini
     affiliations:
       - Sorbonne Université
     email:
