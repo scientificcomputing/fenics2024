@@ -3,13 +3,17 @@ title: 'Expressing general constitutive models using algorithmic automatic diffe
 authors:
   - name: Andrey Latyshev
     affiliations:
-      - University of Luxembourg
+      - University of Luxembourg, Sorbonne Université
     email: latyshev.andrey.a@gmail.com
   - name: Jérémy Bleyer
     affiliations:
-      - Ecole des Ponts ParisTech
+      - Ecole des Ponts ParisTech, Université Gustave Eiffel
     email:
-  - name: Jack S. Hale
+- name: Jack S. Hale
+    affiliations:
+      - University of Luxembourg
+    email:
+- name: Corrado Maurini
     affiliations:
       - Sorbonne Université
     email:
