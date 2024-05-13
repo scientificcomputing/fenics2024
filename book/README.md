@@ -81,6 +81,10 @@ Number of presentations: 5
 
 The poster session will take place on the 1st floor of Simula. Refreshments will be provided. All conference participants are strongly encouraged to participate in this both scientific and social part of the programme. All poster presenters are encouraged to put up their posters immediately after the end of talks on Wednesday. Poster boards (in given format) will be provided.
 
+:::{note}
+We recommend poster presenters to bring their poster in A1 portrait format, see <https://www.prepressure.com/library/paper-size#ISO> for more info on dimensions.
+:::
+
 | Title                                                                                                                                                                                                      | Presenter                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- |
 | [Modeling the shock-to-detonation transition at the mesoscale : a reactive molecular dynamics informed continuum model with FEniCS-based simulation](abstracts/modeling-the-shock.md)                      | Paul Bouteiller          |
