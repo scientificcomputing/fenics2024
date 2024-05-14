@@ -79,10 +79,10 @@ Number of presentations: 5
 
 ### Poster session: 17:15 - 18:30
 
-The poster session will take place on the 1st floor of Simula. Refreshments will be provided. All conference participants are strongly encouraged to participate in this both scientific and social part of the programme. All poster presenters are encouraged to put up their posters immediately after the end of talks on Wednesday. Poster boards (in given format) will be provided.
+The poster session will take place on the 1st floor of Simula. Refreshments will be provided. All conference participants are strongly encouraged to participate in this both scientific and social part of the programme. All poster presenters are encouraged to put up their posters immediately after the end of talks on Wednesday. Poster boards are provided in A1 portrait format.
 
 :::{note}
-We recommend poster presenters to bring their poster in A1 portrait format, see <https://www.prepressure.com/library/paper-size#ISO> for more info on dimensions.
+We strongly recommend poster presenters to bring their poster in A1 portrait format, see <https://www.prepressure.com/library/paper-size#ISO> for more info on dimensions.
 :::
 
 | Title                                                                                                                                                                                                      | Presenter                |
@@ -99,9 +99,9 @@ We recommend poster presenters to bring their poster in A1 portrait format, see 
 | [Higher-Order Time-Stepping in Multiphysics Using preCICE](abstracts/higher-order-time.md)                                                                                                                 | Niklas Vinnitchenko      |
 | [Integrating Mechanistic Knowledge into Deep Learning for Improved Cancer Detection](abstracts/integrating-mechanistic.md)                                                                                 | Christoph Sadee          |
 
-### Informal guided tour of Oslo: From TulinLøkka to Bjørvika 18:30-20:00
+### Informal guided tour of Oslo: From Tullinløkka to Bjørvika 18:30-20:00
 
-Participants can also choose other activities, such as
+Participants can also choose other activities, we recommend e.g.
 
 - Visiting the Munch Museum (self-organized)
 - Swim in the Oslofjord (self-organized)
@@ -150,7 +150,7 @@ Number of presentations: 4
 | [How to evaluate wall shear stress?](abstracts/how-to-evaluate-wall-shear-stress.md) | Jana Brunátová |
 | [A FEniCS-based framework for modeling cardiac growth and remodeling](abstracts/a-fenics-based-framework.md) | Karl Munthe |
 
-### Lunch: Simula Cafeteria
+### Lunch: Simula cafeteria
 
 Lunch is provided in the Simula cafeteria (first floor) for all conference attendees
 
