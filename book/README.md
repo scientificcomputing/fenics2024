@@ -207,20 +207,20 @@ Swimsuit is recommended.
 
 ### Coffee, tea and refreshments 8:30-9:00
 
-### Session 1: 9:00 - 10:15
+### Session 1: 9:00 - 10:00
 
 _Chair:_ TBA
-Number of presentations: 5
+Number of presentations: 4
 | Title | Presenter |
 |:-----------------------------------------------------------------------------------------------------------------------|:------------------------|
 | [Towards FESTIM 2.0: A powerful and accessible hydrogen transport code built on FEniCSx](abstracts/festim.md) | James Dark |
-| [SimCardEMS: A cardiac electro-mechanics solver designed for in silico trials](abstracts/simcardems.md) | Cécile Daversin Catty |
 | [Reduced- and mixed-precision finite element kernels](abstracts/reduced-and-mixed-precision-finite-element-kernels.md) | Matteo Croci |
 | [Nonclassical electromagnetism with FEniCSx](abstracts/nonclassical-electromagnetism-with-fenicsx.md) | Cristian Ciraci |
+| [SimCardEMS: A cardiac electro-mechanics solver designed for in silico trials](abstracts/simcardems.md) | Cécile Daversin Catty |
 
-### Session 2: 10:30 - 11:30
+### Session 2: 10:15 - 11:30
 
-Number of presentations: 4
+Number of presentations: 5
 | Title | Presenter |
 |:------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
 | [polycrstalx: Interfacing FEniCSx with Material Modeling](abstracts/polycrstalx.md) | Donald Boyce |
