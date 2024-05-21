@@ -123,8 +123,8 @@ Number of presentations: 4
 |:----------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|
 | [Strongly coupled electrochemical-thermal-fluid models of a battery pack using FEniCS](abstracts/strongly-coupled.md) | Alexandre Guibert |
 | [The diffuse-interface method for two-phase flow with a viscous interface](abstracts/the-diffuse-interface.md) | Jang Min Park |
-| [Property-preserving numerical approximation of a degenerate multiphase fluid flow model with variable densities](abstracts/property-preserving.md) | Daniel Acosta Soba |
 | [Upwind DG property-preserving scheme for convection equations: applicatons to Cahn-Hilliard model](abstracts/upwind-dg.md) | J. Rafael Rodríguez-Galván |
+| [Property-preserving numerical approximation of a degenerate multiphase fluid flow model with variable densities](abstracts/property-preserving.md) | Daniel Acosta Soba |
 
 ### Session 2: 10:10 - 11:10
 
