@@ -218,15 +218,15 @@ Number of presentations: 4
 | [Nonclassical electromagnetism with FEniCSx](abstracts/nonclassical-electromagnetism-with-fenicsx.md) | Cristian Ciraci |
 | [SimCardEMS: A cardiac electro-mechanics solver designed for in silico trials](abstracts/simcardems.md) | Cécile Daversin Catty |
 
-### Session 2: 10:15 - 11:30
+### Session 2: 10:15 - 11:15
 
-Number of presentations: 5
+Number of presentations: 4
 | Title | Presenter |
 |:------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
 | [polycrstalx: Interfacing FEniCSx with Material Modeling](abstracts/polycrstalx.md) | Donald Boyce |
 | [Regularized reduced order models for incompressible flows](abstracts/regularized-reduced-order-models-for-incompressible-flows.md) | Francesco Ballarin |
 | [Function scaling and convergence control in highly nonlinear Poisson-Boltzmann electrolyte models.](abstracts/function-scaling.md) | Drew Parsons |
 | [Automated optimisation of Stellarator configurations ](abstracts/automated-optimisation.md) | Massimiliano Leoni |
-| [A Monolithic Approach to Vibro-Acoustic Coupling Across Non-Conformal Mesh Interfaces](abstracts/a-monolithic.md) | Antonio Baiano Svizzero |
+| [{strike}`A Monolithic Approach to Vibro-Acoustic Coupling Across Non-Conformal Mesh Interfaces`](abstracts/a-monolithic.md) | {strike}`Antonio Baiano Svizzero` |
 
-### Awards ceremony and closing remarks 11:30-12:00
+### Awards ceremony and closing remarks 11:15-12:00
