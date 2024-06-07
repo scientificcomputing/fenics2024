@@ -30,11 +30,15 @@ All activities take place on the 8th floor of Simula Research Laboratory unless 
 
 ## Wednesday
 
-### Arrival: 12:30 - 13:15
+### Arrival: 12:30 - 13:10
 
 Coffee, tea and refreshments will be served
 
-### Welcome statement by the organizing committee 13:15-13:30
+### Welcome statement by the organizing committee: 13:10-13:25
+
+### Remarks from NumFOCUS representative: 13:25-13:30
+
+Presenter: Arliss Collins
 
 ### Session 1: 13:30 - 14:30
 
