@@ -42,7 +42,7 @@ Presenter: Arliss Collins
 
 ### Session 1: 13:30 - 14:30
 
-_Chair:_ TBA
+_Chair:_ Jørgen S. Dokken
 
 Number of presentations: 4
 | Title | Presenter |
@@ -54,7 +54,7 @@ Number of presentations: 4
 
 ### Session 2: 14:40 - 15:25
 
-_Chair:_ TBA
+_Chair:_ David Ham
 
 Number of presentations: 3
 | Title | Presenter |
@@ -70,7 +70,7 @@ Coffee, tea refreshments and pastries will be served
 
 ### Session 3: 15:45 - 17:00
 
-_Chair:_ TBA
+_Chair:_ James Trotter
 
 Number of presentations: 5
 | Title | Presenter |
@@ -89,19 +89,19 @@ The poster session will take place on the 1st floor of Simula. Refreshments will
 We strongly recommend poster presenters to bring their poster in A1 portrait format, see <https://www.prepressure.com/library/paper-size#ISO> for more info on dimensions.
 :::
 
-| Title                                                                                                                                                                                                      | Presenter                |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- |
-| [Modeling the shock-to-detonation transition at the mesoscale : a reactive molecular dynamics informed continuum model with FEniCS-based simulation](abstracts/modeling-the-shock.md)                      | Paul Bouteiller          |
-| [{strike}`Magnetic Radiation and Thermoelectric Coupling in a two-variable model of the cardiac action potential: Effects of excessive use of Gadgets`](abstracts/magnetic-radiation-and-thermoelectric-coupling.md) | {strike}`Habib ur Rehmaan`         |
-| [Determination of Navier's slip parameter and the inflow velocity using variational data assimilation](abstracts/determination-of-navier.md)                                                               | Alena Jarolímová         |
-| [Estimation of optimal inlet boundary condition for blood flow assessment in abdominal aortic aneurysm using variational data assimilation ](abstracts/estimation-of-optimal.md)                           | Sara Paratico            |
-| [Implementation in FEniCS of a cellular activity model based on damage theory](abstracts/implementation-in-fenics.md)                                                                                      | Pedro José Díaz Guerrero |
-| [Implementation of the k-epsilon turbulence model in FEniCS](abstracts/implementation-of-the.md)                                                                                                           | Juraj Marcibál           |
-| [DOLFINx and FFCx on Amazon’s Graviton3](abstracts/dolfinx-and-ffcx.md)                                                                                                                                    | Jack S. Hale             |
-| [Simulating electrodiffusion in myelinated axons](abstracts/simulating-electrodiffusion-in-myelinated-axons.md)                                                                                            | Alessandro Gatti         |
-| [Control Theory based adaptive time stepping for partitioned fluid-structure interactions](abstracts/control-theory.md)                                                                                    | Keni Joseph Sebastian    |
-| [Higher-Order Time-Stepping in Multiphysics Using preCICE](abstracts/higher-order-time.md)                                                                                                                 | Niklas Vinnitchenko      |
-| [Integrating Mechanistic Knowledge into Deep Learning for Improved Cancer Detection](abstracts/integrating-mechanistic.md)                                                                                 | Christoph Sadee          |
+| Title                                                                                                                                                                                                                | Presenter                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------- |
+| [Modeling the shock-to-detonation transition at the mesoscale : a reactive molecular dynamics informed continuum model with FEniCS-based simulation](abstracts/modeling-the-shock.md)                                | Paul Bouteiller            |
+| [{strike}`Magnetic Radiation and Thermoelectric Coupling in a two-variable model of the cardiac action potential: Effects of excessive use of Gadgets`](abstracts/magnetic-radiation-and-thermoelectric-coupling.md) | {strike}`Habib ur Rehmaan` |
+| [Determination of Navier's slip parameter and the inflow velocity using variational data assimilation](abstracts/determination-of-navier.md)                                                                         | Alena Jarolímová           |
+| [Estimation of optimal inlet boundary condition for blood flow assessment in abdominal aortic aneurysm using variational data assimilation ](abstracts/estimation-of-optimal.md)                                     | Sara Paratico              |
+| [Implementation in FEniCS of a cellular activity model based on damage theory](abstracts/implementation-in-fenics.md)                                                                                                | Pedro José Díaz Guerrero   |
+| [Implementation of the k-epsilon turbulence model in FEniCS](abstracts/implementation-of-the.md)                                                                                                                     | Juraj Marcibál             |
+| [DOLFINx and FFCx on Amazon’s Graviton3](abstracts/dolfinx-and-ffcx.md)                                                                                                                                              | Jack S. Hale               |
+| [Simulating electrodiffusion in myelinated axons](abstracts/simulating-electrodiffusion-in-myelinated-axons.md)                                                                                                      | Alessandro Gatti           |
+| [Control Theory based adaptive time stepping for partitioned fluid-structure interactions](abstracts/control-theory.md)                                                                                              | Keni Joseph Sebastian      |
+| [Higher-Order Time-Stepping in Multiphysics Using preCICE](abstracts/higher-order-time.md)                                                                                                                           | Niklas Vinnitchenko        |
+| [Integrating Mechanistic Knowledge into Deep Learning for Improved Cancer Detection](abstracts/integrating-mechanistic.md)                                                                                           | Christoph Sadee            |
 
 ### Informal guided tour of Oslo: From Tullinløkka to Bjørvika 18:30-20:00
 
@@ -144,8 +144,7 @@ Number of presentations: 4
 
 ### Session 3: 11:15 - 12:15
 
-_Chair:_ TBA
-
+_Chair:_ Ada Ellingsrud
 Number of presentations: 4
 | Title | Presenter |
 |:----------------------------------------------------------------------------------------------------------------------------------|:-----------------------|
@@ -160,7 +159,7 @@ Lunch is provided in the Simula cafeteria (first floor) for all conference atten
 
 ### Session 4: 13:00 - 14:15
 
-_Chair:_ TBA
+_Chair:_ Chris Richardson
 
 Number of presentations: 5
 | Title | Presenter |
@@ -173,7 +172,7 @@ Number of presentations: 5
 
 ### Session 5: 14:25 - 15:25
 
-_Chair:_ TBA
+_Chair:_ Henrik Finsberg
 
 Number of presentations: 4
 | Title | Presenter |
@@ -213,7 +212,7 @@ Swimsuit is recommended.
 
 ### Session 1: 9:00 - 10:00
 
-_Chair:_ TBA
+_Chair:_ Eirik Valseth
 Number of presentations: 4
 | Title | Presenter |
 |:-----------------------------------------------------------------------------------------------------------------------|:------------------------|
@@ -224,6 +223,7 @@ Number of presentations: 4
 
 ### Session 2: 10:15 - 11:15
 
+_Chair:_ Marie E. Rognes
 Number of presentations: 4
 | Title | Presenter |
 |:------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
