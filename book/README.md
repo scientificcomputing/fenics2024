@@ -130,7 +130,7 @@ Number of presentations: 4
 
 ### Session 2: 10:10 - 11:10
 
-_Chair:_ TBA
+_Chair:_ August Johansson
 
 Number of presentations: 4
 | Title | Presenter |
