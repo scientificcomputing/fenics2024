@@ -42,7 +42,7 @@ Presenter: Arliss Collins
 
 ### Session 1: 13:30 - 14:30
 
-_Chair:_ TBA
+_Chair:_ Jørgen Dokken 
 
 Number of presentations: 4
 | Title | Presenter |
@@ -54,7 +54,7 @@ Number of presentations: 4
 
 ### Session 2: 14:40 - 15:25
 
-_Chair:_ TBA
+_Chair:_ David Ham 
 
 Number of presentations: 3
 | Title | Presenter |
@@ -70,7 +70,7 @@ Coffee, tea refreshments and pastries will be served
 
 ### Session 3: 15:45 - 17:00
 
-_Chair:_ TBA
+_Chair:_ James Trotter
 
 Number of presentations: 5
 | Title | Presenter |
@@ -144,7 +144,7 @@ Number of presentations: 4
 
 ### Session 3: 11:15 - 12:15
 
-_Chair:_ TBA
+_Chair:_ Ada Ellingsrud
 
 Number of presentations: 4
 | Title | Presenter |
@@ -160,7 +160,7 @@ Lunch is provided in the Simula cafeteria (first floor) for all conference atten
 
 ### Session 4: 13:00 - 14:15
 
-_Chair:_ TBA
+_Chair:_ Chris Richardson
 
 Number of presentations: 5
 | Title | Presenter |
@@ -173,7 +173,7 @@ Number of presentations: 5
 
 ### Session 5: 14:25 - 15:25
 
-_Chair:_ TBA
+_Chair:_ Henrik Finsberg
 
 Number of presentations: 4
 | Title | Presenter |
@@ -213,7 +213,7 @@ Swimsuit is recommended.
 
 ### Session 1: 9:00 - 10:00
 
-_Chair:_ TBA
+_Chair:_ Eirik Valseth
 Number of presentations: 4
 | Title | Presenter |
 |:-----------------------------------------------------------------------------------------------------------------------|:------------------------|
@@ -224,6 +224,8 @@ Number of presentations: 4
 
 ### Session 2: 10:15 - 11:15
 
+
+_Chair:_ Marie E. Rognes
 Number of presentations: 4
 | Title | Presenter |
 |:------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
