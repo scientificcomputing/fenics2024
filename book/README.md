@@ -118,7 +118,7 @@ At [Villa Paradiso Munch Brygge](https://www.villaparadiso.no/restauranter/munch
 
 ### Session 1: 9:00 - 10:00
 
-_Chair:_ TBA
+_Chair:_ Daiane Dolci
 
 Number of presentations: 4
 | Title | Presenter |
