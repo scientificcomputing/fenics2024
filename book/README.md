@@ -156,14 +156,13 @@ Number of presentations: 4
 
 Lunch is provided in the Simula cafeteria (first floor) for all conference attendees
 
-### Session 4: 13:00 - 14:15
+### Session 4: 13:15 - 14:15
 
 _Chair:_ Chris Richardson
 
-Number of presentations: 5
+Number of presentations: 4
 | Title | Presenter |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------|
-| [Thermomechanical coupling of phase transformations and constitutive laws to describe microstructural evolution of substitutional solder alloys ](abstracts/thermomechanical.md) | Wolfgang Flachberger |
 | [Thermal analysis of railway brake discs](abstracts/thermal-analysis-of-railway-brake-discs.md) | Yanjun Zhang |
 | [Improved post-processing of transient heat transfer experiments using the finite element method](abstracts/improved-post-processing.md) | Bram Hulhoven |
 | [A Discontinuous Galerkin solver in FEniCS for the 2D Incompressible Navier Stokes Equations](abstracts/a-discontinuous-galerkin.md) | Keni Joseph Sebastian |
