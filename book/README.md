@@ -24,6 +24,8 @@ exports:
 Hans Petter Langtangen Lecture Hall, 8th floor
 Pusterommet, 1st floor
 
+Link to Zoom: https://bit.ly/fenics2024-zoom
+
 # Scientific and Social programme
 
 All activities take place on the 8th floor of Simula Research Laboratory unless otherwise indicated.
