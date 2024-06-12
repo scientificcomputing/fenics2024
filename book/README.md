@@ -80,7 +80,7 @@ Number of presentations: 5
 | [High-order, structure-preserving schemes on GPU architectures in FEniCSx](abstracts/high-order.md) | Joseph Dean |
 | [Leveraging DOLFINx data-oriented design for GPU implementation](abstracts/leveraging-dolfinx.md) | Adeeb Arif Kor |
 
-### Poster session: 17:15 - 18:30
+### Poster session: 17:00 - 18:30
 
 The poster session will take place on the 1st floor of Simula. Refreshments will be provided. All conference participants are strongly encouraged to participate in this both scientific and social part of the programme. All poster presenters are encouraged to put up their posters immediately after the end of talks on Wednesday. Poster boards are provided in A1 portrait format.
 
