@@ -19,12 +19,23 @@ exports:
     template: ../template
 ---
 
+# YouTube Recordings
+
+To find all the recordings from the conference please go to [FEniCS-Project@YouTube](https://www.youtube.com/@FEniCS-Project/).
+
+Click the video below to start the first recorded talk.
+:::{iframe} https://www.youtube.com/embed/videoseries?si=yOFE_AXecdiC2QRp&amp;list=PLUsqTK5zz3CHV6g0vfwJ72KkYoNKU0yI4
+:width: 100%
+FEniCS 2024 YouTube Playlist
+:::
+:::{note}
+The audio is missing for the first 7 minutes of the first talk
+:::
+
 **Location**: Simula Research Laboratory, Kristian Augusts gate 23, Oslo, Norway
 
 Hans Petter Langtangen Lecture Hall, 8th floor
 Pusterommet, 1st floor
-
-Link to Zoom: https://bit.ly/fenics2024-zoom
 
 # Scientific and Social programme
 
